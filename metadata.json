@@ -1,0 +1,6 @@
+{
+  "name": "Java Student Database Application",
+  "description": "Interactive Java Student Database application with full OOP Student class, unique 5-digit ID generator, course enrollment, tuition management, terminal simulator, and memory visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
